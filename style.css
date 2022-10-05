@@ -20,6 +20,7 @@ html{
     /*background-color: #FEA775;*/
     /*font-family: 'Playfair Display', serif;*/
     font-family: 'Josefin Sans', sans-serif;
+    background-image: url(https://github.com/lydia-atieno/Paradise/blob/master/img/1.jpg?raw=true);
 
 }
 
@@ -213,7 +214,7 @@ html{
     z-index: -1;
 }
 #hero h1{
-   color: #fddf98;
+   color: black;
     font-family: ;
     letter-spacing: .1rem;
     font-weight: 500;
@@ -226,7 +227,7 @@ html{
 /*Services section*/
 #services{
     /*background-color: #2b6511;*/
-    background-color: #562B08;
+    background-color: #f9dc98;
 }
 #services .services{
     flex-direction: column;
@@ -276,7 +277,7 @@ html{
 
 /*Contact section*/
 #contact{
-    background-color: #562B08;
+    background-color: #f9dc98;
 }
 #contact .contact{
     min-height: 10vh;
