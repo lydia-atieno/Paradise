@@ -21,6 +21,7 @@ html{
     /*font-family: 'Playfair Display', serif;*/
     font-family: 'Josefin Sans', sans-serif;
     background-image: url(https://github.com/lydia-atieno/Paradise/blob/master/img/1.jpg?raw=true);
+    background-position: top, center;
 
 }
 
@@ -214,7 +215,7 @@ html{
     z-index: -1;
 }
 #hero h1{
-   color: black;
+   color: #fddf98;
     font-family: ;
     letter-spacing: .1rem;
     font-weight: 500;
