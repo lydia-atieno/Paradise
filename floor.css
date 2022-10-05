@@ -15,7 +15,7 @@
     height: 100%;
 }
 html{
-    background-color: #562B08;
+    background-color: #f9dc98;
     animation: reveal 1.5s cubic-bezier(0.77, 0, 0.175,1) 0.5s;
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -35,5 +35,5 @@ html{
     margin-top: 20px;
     margin-bottom: 13px;
     font-weight: 500;
-    color: #fddf98;
+    color: black;
 }
